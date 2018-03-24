@@ -1,0 +1,1 @@
+sudo docker exec -i -t vapor.tips /bin/bash
